@@ -9,7 +9,7 @@
 
 <br />
 <h2>Technologies Utilized</h2>
-    - Visual Studio Code
-    - Netlify
+  <p></p>- Visual Studio Code</p>
+  <p></p>- Netlify</p>
 
-<h2> Click Here! 'https://silly-platypus-8554ae.netlify.app/' </h2>
+<h2> Click here to view my [Site!](https://silly-platypus-8554ae.netlify.app/)https://silly-platypus-8554ae.netlify.app/</h2> 
