@@ -12,4 +12,6 @@
   <p></p>- Visual Studio Code</p>
   <p></p>- Netlify</p>
 
-<h2> Click here to view my [Site!](https://silly-platypus-8554ae.netlify.app/)https://silly-platypus-8554ae.netlify.app/</h2> 
+[Click here to view!](https://silly-platypus-8554ae.netlify.app/)
+
+
