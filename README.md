@@ -12,6 +12,6 @@
   <p></p>- Visual Studio Code</p>
   <p></p>- Netlify</p>
 
-[Click here to view!](https://silly-platypus-8554ae.netlify.app/)
+**[Click here to view!](https://silly-platypus-8554ae.netlify.app/)
 
 
