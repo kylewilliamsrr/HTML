@@ -5,13 +5,13 @@
 </p>
 <h1 align="center">HTML Basics</h1>
 
-<p>Using the Google Homepage as a template, I designed a similar copy with HyperText Markup Language or HTML. I used Visual Studio Code to script my webpage and Netlify to launch my domain.</p>
+<p>Using the Google Homepage as a template, I designed a similar copy of the page with HyperText Markup Language or HTML. I used Visual Studio Code to script my webpage and Netlify to launch my domain.</p>
 
 <br />
 <h2>Technologies Utilized</h2>
   <p></p>- Visual Studio Code</p>
   <p></p>- Netlify</p>
 
-**[Click here to view!](https://silly-platypus-8554ae.netlify.app/)
+**[Click here to view!](https://silly-platypus-8554ae.netlify.app/)**
 
 
